@@ -151,9 +151,7 @@ export default function App() {
               color="text.secondary"
               paragraph
             >
-              This is a basic App. You can watch random beutiful photos from
-              around the world and listen music. Check out buttons: SWITCH
-              THEME, RELOAD, VIEW, PLAY/STOP MUSIC...
+              Basic App where you can watch random beautiful photos from around the world. The app will have buttons to switch themes, reload photos, view a full-screen mode, and play/stop music...
             </Typography>
             <Stack
               sx={{ pt: 4 }}
